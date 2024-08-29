@@ -1,0 +1,5 @@
+mediapipe
+opencv-python-headless
+pygame
+numpy
+protobuf
